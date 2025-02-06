@@ -1,0 +1,22 @@
+{
+  "name": "devops_workshop",
+  "version": "1.0.0",
+  "description": "This is a sample demonistration for Deveops",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RenukaPulavarthi/Devops_workshop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RenukaPulavarthi/Devops_workshop/issues"
+  },
+  "homepage": "https://github.com/RenukaPulavarthi/Devops_workshop#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
